@@ -1,0 +1,16 @@
+def GuestList():
+    friends = ["Ross","Rachel","Chandler","Monica","Joey","Phoebe"]
+    guestList = []
+    for friend in friends:
+        print("Enter guest list for ",friend,":")
+        lst = input().split(" ")
+        guestList.append(set(lst))
+    unified_list = []
+    for guests in guestList:
+        for i in range(len(guests)):
+            unified_list.append(list(guests)[i])
+    unified_set = set(unified_list)
+    unified_set.remove(list(unified_set)[0])
+    return unified_set
+if __name__ == "__main__":
+    print("The unified set of guest is:\n",GuestList())
