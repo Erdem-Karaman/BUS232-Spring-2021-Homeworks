@@ -1,0 +1,4 @@
+AccountName	AccountNumber	Date	DescriptionOfTheEntry	PostingReference	Debit	Credit	DebitBalance	CreditBalance
+Erdem	12345678	2021-05-30	sdfsdfs	sdfsdfsd	96565668	664689	464545	445454
+Erdem	12345678	2021-05-30	fsdfsdfsd	sfsfxz	45476	544665	46685	66465
+Erdem	12345678	2021-05-30	sfsdxaa	dfsdfa	dfsdfdfsd	4544445	65656565	6656566

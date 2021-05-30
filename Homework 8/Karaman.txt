@@ -1,0 +1,4 @@
+AccountName	AccountNumber	Date	DescriptionOfTheEntry	PostingReference	Debit	Credit	DebitBalance	CreditBalance
+Karaman	12345678	2021-05-30	wfdfsdfsdfsd	sdfsdfsdf	4546555656	656887	665634	66898631
+Karaman	12345678	2021-05-30	aaxawww	6688956	666565	134679	5266246	4545464
+Karaman	12345678	2021-05-30	wddsdqa	636366	46365	6464646	464646	636249
